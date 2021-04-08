@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: 'If you want you can visit the <a href=/"portfolio">portfolio page</a>'
+about_me_description: 'If you want you can visit the <a href=/"portfolio.html">portfolio page</a>'
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
