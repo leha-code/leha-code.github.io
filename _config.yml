@@ -14,7 +14,7 @@ baseurl: "/"
 username: LEHAtupointow
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: A developer, that does something for what,
+typing_text: yeah just my website.
 # email: Your E-Mail address for the email button.
 email: pezleha@gmail.com
 # For every social button you want to display, set your username or userid
@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
 # about_me_description: This will be displayed under the title.
-about_me_description: "If you want you can visit the [portfolio page](/portfolio).... "
+about_me_description: "If you want you can visit the [portfolio page](/portfolio.html).... "
 # SKILLS SECTION
 # show_skills_card:
 # > setting this to true, will display the Skills section
